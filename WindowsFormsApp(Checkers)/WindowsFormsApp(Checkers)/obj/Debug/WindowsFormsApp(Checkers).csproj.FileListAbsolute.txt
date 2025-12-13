@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\WindowsFormsApp(Checkers)\WindowsFormsApp(Checkers)\bin\Debug\WindowsFormsApp(Checkers).exe.config
+C:\Users\Acer\source\repos\WindowsFormsApp(Checkers)\WindowsFormsApp(Checkers)\bin\Debug\WindowsFormsApp(Checkers).exe
+C:\Users\Acer\source\repos\WindowsFormsApp(Checkers)\WindowsFormsApp(Checkers)\bin\Debug\WindowsFormsApp(Checkers).pdb
+C:\Users\Acer\source\repos\WindowsFormsApp(Checkers)\WindowsFormsApp(Checkers)\obj\Debug\WindowsFormsApp(Checkers).csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\WindowsFormsApp(Checkers)\WindowsFormsApp(Checkers)\obj\Debug\WindowsFormsApp_Checkers_.Form1.resources
+C:\Users\Acer\source\repos\WindowsFormsApp(Checkers)\WindowsFormsApp(Checkers)\obj\Debug\WindowsFormsApp_Checkers_.Properties.Resources.resources
+C:\Users\Acer\source\repos\WindowsFormsApp(Checkers)\WindowsFormsApp(Checkers)\obj\Debug\WindowsFormsApp(Checkers).csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\WindowsFormsApp(Checkers)\WindowsFormsApp(Checkers)\obj\Debug\WindowsFormsApp(Checkers).csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\WindowsFormsApp(Checkers)\WindowsFormsApp(Checkers)\obj\Debug\WindowsFormsApp(Checkers).exe
+C:\Users\Acer\source\repos\WindowsFormsApp(Checkers)\WindowsFormsApp(Checkers)\obj\Debug\WindowsFormsApp(Checkers).pdb
+C:\Users\Acer\source\repos\WindowsFormsApp(Checkers)\WindowsFormsApp(Checkers)\obj\Debug\WindowsFormsApp(Checkers).exe.config
